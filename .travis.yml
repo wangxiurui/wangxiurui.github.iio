@@ -16,7 +16,8 @@ before_script:
 
 
 script:
-  - hexo g
+  - hexo clean   #Çå³ý
+  - hexo generate
 
 
 after_script:

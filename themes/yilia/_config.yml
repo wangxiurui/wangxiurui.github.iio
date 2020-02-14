@@ -68,7 +68,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: /source/img/touxiang.png
 
 #是否开启分享
 share_jia: true
@@ -91,7 +91,7 @@ changyan_conf: false
 disqus: false
 
 #5、Gitment
-gitment_owner: false      #你的 GitHub ID
+gitment_owner: https://github.com/wangxiurui/      #你的 GitHub ID
 gitment_repo: ''          #存储评论的 repo
 gitment_oauth:
   client_id: ''           #client ID
